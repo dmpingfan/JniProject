@@ -1,0 +1,2 @@
+# JniProject
+Jni_for_using_C_to_Solve_Java_Problem
